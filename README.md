@@ -1,4 +1,4 @@
-# **🏥 Interactive Healthcare Data Analtyics Project with Dashboard** #
+# **🏥 Interactive Healthcare Data Analtyics Project** #
 
 ## **Overview** ##
 
